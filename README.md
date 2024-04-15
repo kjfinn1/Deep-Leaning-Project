@@ -1,2 +1,2 @@
 # Deep-Leaning-Project
-Fine-tuned BERT Model for Multi-Label Concerning Tweet Classification
+Fine-tuned NLP Models for Multi-Label Concerning Tweet Classification
